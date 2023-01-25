@@ -12,6 +12,8 @@ table{
     border-radius: 10px;
     border-spacing: 0;
     margin: 72px 84px;
+	    overflow: hidden;
+
 }
 .row1{
     background-color:  rgb(255, 254, 253);
