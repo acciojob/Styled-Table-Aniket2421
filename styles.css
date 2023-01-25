@@ -1,1 +1,32 @@
-/* your code */
+th{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+
+    
+
+}
+table{
+    width: 80%;
+    border: 1px solid grey;
+    border-radius: 10px;
+    border-spacing: 0;
+    margin: 72px 84px;
+}
+.row1{
+    background-color:  rgb(255, 254, 253);
+}
+.row2{
+    background-color:  rgba(186, 183, 183, 0.929);
+}
+.row3{
+    background-color: rgb(255, 254, 253);
+}
+.row4{
+    background-color: rgba(186, 183, 183, 0.929) ;
+}
+td th{
+
+    border: none;
+}
+
