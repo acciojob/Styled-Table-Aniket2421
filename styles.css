@@ -27,8 +27,9 @@ table{
 .row4{
     background-color: rgba(186, 183, 183, 0.929) ;
 }
-td th{
+td{
 
     border: none;
+	text-align: center;
 }
 
